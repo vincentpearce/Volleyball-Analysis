@@ -111,8 +111,9 @@ def main():
     st.caption("Ball tracking -> pose/jump detection -> event classification -> timing assessment")
     st.info(
         "This is a **static demo gallery** of pre-computed results (the full ML "
-        "pipeline needs more compute than free hosting provides -- clone the repo "
-        "to run it live on your own footage)."
+        "pipeline needs more compute than free hosting provides). "
+        "[View source / run it live on your own footage]"
+        "(https://github.com/vincentpearce/Volleyball-Analysis)."
     )
 
     clip_key = st.selectbox(
