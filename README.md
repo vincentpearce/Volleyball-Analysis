@@ -5,7 +5,7 @@ whether a hitter contacts the ball at the right moment in their jump —
 not just "did they jump," but the actual timing offset in milliseconds
 between the jump's apex and ball contact.
 
-**[Live demo](#)** *(add your Streamlit Community Cloud URL here once deployed)*
+**[Live demo](https://volleyball-analysis-vincentp.streamlit.app/)**
 
 ## What it does
 
