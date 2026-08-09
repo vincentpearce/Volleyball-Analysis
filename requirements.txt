@@ -1,0 +1,18 @@
+numpy
+opencv-python
+pyyaml
+tqdm
+pandas
+
+# Phase 1 (ball tracking) — YOLO branch of the evaluation
+ultralytics
+lap
+
+# torch is pulled in by ultralytics; on Apple Silicon it uses the MPS backend automatically
+
+# Phase 1 (ball tracking) — vball-net ONNX inference (the chosen model)
+onnx
+onnxruntime
+
+# webapp/ — simple Streamlit UI over the pipeline
+streamlit

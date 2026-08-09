@@ -1,0 +1,5274 @@
+{
+  "video": {
+    "path": "data/samples/clip_00-42-20.mp4",
+    "fps": 25.0,
+    "frame_count": 750,
+    "width": 1920,
+    "height": 1080
+  },
+  "ball": {
+    "trajectory": [
+      {
+        "frame": 0,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 1,
+        "visibility": 1,
+        "x": 691.2499999999999,
+        "y": 643.75,
+        "interpolated": false
+      },
+      {
+        "frame": 2,
+        "visibility": 1,
+        "x": 687.9166666666666,
+        "y": 644.8397435897436,
+        "interpolated": false
+      },
+      {
+        "frame": 3,
+        "visibility": 0,
+        "x": 685.4990310077519,
+        "y": 646.1698717948718,
+        "interpolated": true
+      },
+      {
+        "frame": 4,
+        "visibility": 1,
+        "x": 683.0813953488372,
+        "y": 647.5,
+        "interpolated": false
+      },
+      {
+        "frame": 5,
+        "visibility": 1,
+        "x": 680.5263157894738,
+        "y": 644.5394736842105,
+        "interpolated": false
+      },
+      {
+        "frame": 6,
+        "visibility": 0,
+        "x": 677.7467105263158,
+        "y": 644.5540935672515,
+        "interpolated": true
+      },
+      {
+        "frame": 7,
+        "visibility": 0,
+        "x": 674.9671052631579,
+        "y": 644.5687134502924,
+        "interpolated": true
+      },
+      {
+        "frame": 8,
+        "visibility": 1,
+        "x": 672.1875,
+        "y": 644.5833333333334,
+        "interpolated": false
+      },
+      {
+        "frame": 9,
+        "visibility": 1,
+        "x": 667.75,
+        "y": 645.75,
+        "interpolated": false
+      },
+      {
+        "frame": 10,
+        "visibility": 1,
+        "x": 666.4772727272727,
+        "y": 643.1818181818181,
+        "interpolated": false
+      },
+      {
+        "frame": 11,
+        "visibility": 0,
+        "x": 666.155303030303,
+        "y": 642.6325757575758,
+        "interpolated": true
+      },
+      {
+        "frame": 12,
+        "visibility": 1,
+        "x": 665.8333333333333,
+        "y": 642.0833333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 13,
+        "visibility": 1,
+        "x": 665.8333333333333,
+        "y": 640.4166666666665,
+        "interpolated": false
+      },
+      {
+        "frame": 14,
+        "visibility": 1,
+        "x": 649.9999999999999,
+        "y": 642.4999999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 15,
+        "visibility": 1,
+        "x": 649.9999999999999,
+        "y": 642.4999999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 16,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 17,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 18,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 19,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 20,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 21,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 22,
+        "visibility": 1,
+        "x": 635.625,
+        "y": 639.375,
+        "interpolated": false
+      },
+      {
+        "frame": 23,
+        "visibility": 1,
+        "x": 634.25,
+        "y": 641.75,
+        "interpolated": false
+      },
+      {
+        "frame": 24,
+        "visibility": 1,
+        "x": 636.3636363636364,
+        "y": 639.0340909090909,
+        "interpolated": false
+      },
+      {
+        "frame": 25,
+        "visibility": 1,
+        "x": 630.9459459459459,
+        "y": 640.3378378378378,
+        "interpolated": false
+      },
+      {
+        "frame": 26,
+        "visibility": 1,
+        "x": 632.109375,
+        "y": 641.40625,
+        "interpolated": false
+      },
+      {
+        "frame": 27,
+        "visibility": 1,
+        "x": 631.3352272727273,
+        "y": 640.7386363636365,
+        "interpolated": false
+      },
+      {
+        "frame": 28,
+        "visibility": 1,
+        "x": 631.3863636363635,
+        "y": 641.2272727272726,
+        "interpolated": false
+      },
+      {
+        "frame": 29,
+        "visibility": 1,
+        "x": 629.52868852459,
+        "y": 638.6065573770492,
+        "interpolated": false
+      },
+      {
+        "frame": 30,
+        "visibility": 1,
+        "x": 628.2608695652174,
+        "y": 641.8478260869565,
+        "interpolated": false
+      },
+      {
+        "frame": 31,
+        "visibility": 1,
+        "x": 625.46875,
+        "y": 641.09375,
+        "interpolated": false
+      },
+      {
+        "frame": 32,
+        "visibility": 1,
+        "x": 623.5714285714286,
+        "y": 638.9285714285713,
+        "interpolated": false
+      },
+      {
+        "frame": 33,
+        "visibility": 1,
+        "x": 626.375,
+        "y": 638.75,
+        "interpolated": false
+      },
+      {
+        "frame": 34,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 35,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 36,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 37,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 38,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 39,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 40,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 41,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 42,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 43,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 44,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 45,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 46,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 47,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 48,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 49,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 50,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 51,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 52,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 53,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 54,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 55,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 56,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 57,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 58,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 59,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 60,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 61,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 62,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 63,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 64,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 65,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 66,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 67,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 68,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 69,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 70,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 71,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 72,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 73,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 74,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 75,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 76,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 77,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 78,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 79,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 80,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 81,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 82,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 83,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 84,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 85,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 86,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 87,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 88,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 89,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 90,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 91,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 92,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 93,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 94,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 95,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 96,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 97,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 98,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 99,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 100,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 101,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 102,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 103,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 104,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 105,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 106,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 107,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 108,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 109,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 110,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 111,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 112,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 113,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 114,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 115,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 116,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 117,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 118,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 119,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 120,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 121,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 122,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 123,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 124,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 125,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 126,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 127,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 128,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 129,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 130,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 131,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 132,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 133,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 134,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 135,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 136,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 137,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 138,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 139,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 140,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 141,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 142,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 143,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 144,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 145,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 146,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 147,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 148,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 149,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 150,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 151,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 152,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 153,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 154,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 155,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 156,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 157,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 158,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 159,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 160,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 161,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 162,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 163,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 164,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 165,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 166,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 167,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 168,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 169,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 170,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 171,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 172,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 173,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 174,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 175,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 176,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 177,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 178,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 179,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 180,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 181,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 182,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 183,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 184,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 185,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 186,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 187,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 188,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 189,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 190,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 191,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 192,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 193,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 194,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 195,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 196,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 197,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 198,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 199,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 200,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 201,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 202,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 203,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 204,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 205,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 206,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 207,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 208,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 209,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 210,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 211,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 212,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 213,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 214,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 215,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 216,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 217,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 218,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 219,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 220,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 221,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 222,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 223,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 224,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 225,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 226,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 227,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 228,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 229,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 230,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 231,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 232,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 233,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 234,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 235,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 236,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 237,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 238,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 239,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 240,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 241,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 242,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 243,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 244,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 245,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 246,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 247,
+        "visibility": 1,
+        "x": 976.4473684210527,
+        "y": 987.1052631578946,
+        "interpolated": false
+      },
+      {
+        "frame": 248,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 249,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 250,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 251,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 252,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 253,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 254,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 255,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 256,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 257,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 258,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 259,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 260,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 261,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 262,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 263,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 264,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 265,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 266,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 267,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 268,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 269,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 270,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 271,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 272,
+        "visibility": 1,
+        "x": 782.5,
+        "y": 628.3653846153845,
+        "interpolated": false
+      },
+      {
+        "frame": 273,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 274,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 275,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 276,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 277,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 278,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 279,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 280,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 281,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 282,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 283,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 284,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 285,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 286,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 287,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 288,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 289,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 290,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 291,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 292,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 293,
+        "visibility": 1,
+        "x": 784.8863636363635,
+        "y": 612.3863636363635,
+        "interpolated": false
+      },
+      {
+        "frame": 294,
+        "visibility": 1,
+        "x": 785.4166666666666,
+        "y": 610.4166666666666,
+        "interpolated": false
+      },
+      {
+        "frame": 295,
+        "visibility": 0,
+        "x": 785.4166666666666,
+        "y": 612.2916666666666,
+        "interpolated": true
+      },
+      {
+        "frame": 296,
+        "visibility": 1,
+        "x": 785.4166666666666,
+        "y": 614.1666666666666,
+        "interpolated": false
+      },
+      {
+        "frame": 297,
+        "visibility": 0,
+        "x": 785.4861111111111,
+        "y": 614.4444444444445,
+        "interpolated": true
+      },
+      {
+        "frame": 298,
+        "visibility": 0,
+        "x": 785.5555555555555,
+        "y": 614.7222222222222,
+        "interpolated": true
+      },
+      {
+        "frame": 299,
+        "visibility": 1,
+        "x": 785.625,
+        "y": 615.0,
+        "interpolated": false
+      },
+      {
+        "frame": 300,
+        "visibility": 0,
+        "x": 785.46875,
+        "y": 615.0,
+        "interpolated": true
+      },
+      {
+        "frame": 301,
+        "visibility": 0,
+        "x": 785.3125,
+        "y": 615.0,
+        "interpolated": true
+      },
+      {
+        "frame": 302,
+        "visibility": 0,
+        "x": 785.1562499999999,
+        "y": 615.0,
+        "interpolated": true
+      },
+      {
+        "frame": 303,
+        "visibility": 1,
+        "x": 784.9999999999999,
+        "y": 615.0,
+        "interpolated": false
+      },
+      {
+        "frame": 304,
+        "visibility": 0,
+        "x": 785.1388888888888,
+        "y": 609.7222222222222,
+        "interpolated": true
+      },
+      {
+        "frame": 305,
+        "visibility": 0,
+        "x": 785.2777777777777,
+        "y": 604.4444444444445,
+        "interpolated": true
+      },
+      {
+        "frame": 306,
+        "visibility": 1,
+        "x": 785.4166666666666,
+        "y": 599.1666666666666,
+        "interpolated": false
+      },
+      {
+        "frame": 307,
+        "visibility": 0,
+        "x": 785.2777777777777,
+        "y": 588.1944444444445,
+        "interpolated": true
+      },
+      {
+        "frame": 308,
+        "visibility": 0,
+        "x": 785.1388888888888,
+        "y": 577.2222222222222,
+        "interpolated": true
+      },
+      {
+        "frame": 309,
+        "visibility": 1,
+        "x": 784.9999999999999,
+        "y": 566.25,
+        "interpolated": false
+      },
+      {
+        "frame": 310,
+        "visibility": 1,
+        "x": 782.1323529411765,
+        "y": 557.1323529411765,
+        "interpolated": false
+      },
+      {
+        "frame": 311,
+        "visibility": 1,
+        "x": 781.7763157894738,
+        "y": 555.4605263157894,
+        "interpolated": false
+      },
+      {
+        "frame": 312,
+        "visibility": 1,
+        "x": 782.025,
+        "y": 545.625,
+        "interpolated": false
+      },
+      {
+        "frame": 313,
+        "visibility": 1,
+        "x": 782.6630434782609,
+        "y": 542.2010869565216,
+        "interpolated": false
+      },
+      {
+        "frame": 314,
+        "visibility": 1,
+        "x": 782.767857142857,
+        "y": 538.6607142857142,
+        "interpolated": false
+      },
+      {
+        "frame": 315,
+        "visibility": 1,
+        "x": 781.5714285714286,
+        "y": 530.5,
+        "interpolated": false
+      },
+      {
+        "frame": 316,
+        "visibility": 1,
+        "x": 782.7777777777776,
+        "y": 527.3888888888889,
+        "interpolated": false
+      },
+      {
+        "frame": 317,
+        "visibility": 1,
+        "x": 783.59375,
+        "y": 524.84375,
+        "interpolated": false
+      },
+      {
+        "frame": 318,
+        "visibility": 1,
+        "x": 784.9999999999999,
+        "y": 522.4999999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 319,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 320,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 321,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 322,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 323,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 324,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 325,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 326,
+        "visibility": 1,
+        "x": 784.0178571428572,
+        "y": 518.5267857142858,
+        "interpolated": false
+      },
+      {
+        "frame": 327,
+        "visibility": 0,
+        "x": 788.3655083655084,
+        "y": 508.3309202059202,
+        "interpolated": true
+      },
+      {
+        "frame": 328,
+        "visibility": 0,
+        "x": 792.7131595881596,
+        "y": 498.1350546975547,
+        "interpolated": true
+      },
+      {
+        "frame": 329,
+        "visibility": 1,
+        "x": 797.0608108108107,
+        "y": 487.93918918918916,
+        "interpolated": false
+      },
+      {
+        "frame": 330,
+        "visibility": 1,
+        "x": 802.03125,
+        "y": 477.23958333333326,
+        "interpolated": false
+      },
+      {
+        "frame": 331,
+        "visibility": 1,
+        "x": 803.9880952380952,
+        "y": 467.9166666666666,
+        "interpolated": false
+      },
+      {
+        "frame": 332,
+        "visibility": 1,
+        "x": 809.7916666666666,
+        "y": 462.1666666666667,
+        "interpolated": false
+      },
+      {
+        "frame": 333,
+        "visibility": 1,
+        "x": 815.9375,
+        "y": 454.53125,
+        "interpolated": false
+      },
+      {
+        "frame": 334,
+        "visibility": 1,
+        "x": 819.4642857142857,
+        "y": 448.03571428571433,
+        "interpolated": false
+      },
+      {
+        "frame": 335,
+        "visibility": 1,
+        "x": 829.5833333333334,
+        "y": 444.7916666666667,
+        "interpolated": false
+      },
+      {
+        "frame": 336,
+        "visibility": 1,
+        "x": 834.3548387096773,
+        "y": 441.5725806451612,
+        "interpolated": false
+      },
+      {
+        "frame": 337,
+        "visibility": 1,
+        "x": 838.4375,
+        "y": 440.3125,
+        "interpolated": false
+      },
+      {
+        "frame": 338,
+        "visibility": 1,
+        "x": 845.304054054054,
+        "y": 440.40540540540536,
+        "interpolated": false
+      },
+      {
+        "frame": 339,
+        "visibility": 1,
+        "x": 851.2162162162161,
+        "y": 439.4256756756756,
+        "interpolated": false
+      },
+      {
+        "frame": 340,
+        "visibility": 1,
+        "x": 859.4772727272727,
+        "y": 442.04545454545456,
+        "interpolated": false
+      },
+      {
+        "frame": 341,
+        "visibility": 1,
+        "x": 866.081081081081,
+        "y": 444.5945945945945,
+        "interpolated": false
+      },
+      {
+        "frame": 342,
+        "visibility": 1,
+        "x": 874.2216981132075,
+        "y": 451.6509433962264,
+        "interpolated": false
+      },
+      {
+        "frame": 343,
+        "visibility": 1,
+        "x": 882.1875,
+        "y": 461.015625,
+        "interpolated": false
+      },
+      {
+        "frame": 344,
+        "visibility": 1,
+        "x": 895.304054054054,
+        "y": 470.0,
+        "interpolated": false
+      },
+      {
+        "frame": 345,
+        "visibility": 1,
+        "x": 908.9893617021277,
+        "y": 485.9308510638297,
+        "interpolated": false
+      },
+      {
+        "frame": 346,
+        "visibility": 1,
+        "x": 921.5,
+        "y": 502.59615384615387,
+        "interpolated": false
+      },
+      {
+        "frame": 347,
+        "visibility": 1,
+        "x": 935.4910714285714,
+        "y": 522.5892857142858,
+        "interpolated": false
+      },
+      {
+        "frame": 348,
+        "visibility": 1,
+        "x": 951.2076271186439,
+        "y": 551.228813559322,
+        "interpolated": false
+      },
+      {
+        "frame": 349,
+        "visibility": 0,
+        "x": 961.1711016949151,
+        "y": 552.6530508474576,
+        "interpolated": true
+      },
+      {
+        "frame": 350,
+        "visibility": 0,
+        "x": 971.1345762711863,
+        "y": 554.0772881355932,
+        "interpolated": true
+      },
+      {
+        "frame": 351,
+        "visibility": 0,
+        "x": 981.0980508474576,
+        "y": 555.5015254237287,
+        "interpolated": true
+      },
+      {
+        "frame": 352,
+        "visibility": 0,
+        "x": 991.0615254237288,
+        "y": 556.9257627118643,
+        "interpolated": true
+      },
+      {
+        "frame": 353,
+        "visibility": 1,
+        "x": 1001.025,
+        "y": 558.3499999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 354,
+        "visibility": 1,
+        "x": 1005.857142857143,
+        "y": 520.8571428571428,
+        "interpolated": false
+      },
+      {
+        "frame": 355,
+        "visibility": 1,
+        "x": 1002.3333333333334,
+        "y": 489.80555555555543,
+        "interpolated": false
+      },
+      {
+        "frame": 356,
+        "visibility": 1,
+        "x": 1000.4629629629629,
+        "y": 462.9629629629629,
+        "interpolated": false
+      },
+      {
+        "frame": 357,
+        "visibility": 1,
+        "x": 996.0555555555554,
+        "y": 433.2777777777777,
+        "interpolated": false
+      },
+      {
+        "frame": 358,
+        "visibility": 1,
+        "x": 995.8695652173914,
+        "y": 415.0543478260869,
+        "interpolated": false
+      },
+      {
+        "frame": 359,
+        "visibility": 1,
+        "x": 991.1574074074073,
+        "y": 390.50925925925924,
+        "interpolated": false
+      },
+      {
+        "frame": 360,
+        "visibility": 1,
+        "x": 988.5555555555554,
+        "y": 376.0833333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 361,
+        "visibility": 1,
+        "x": 989.1666666666666,
+        "y": 363.75,
+        "interpolated": false
+      },
+      {
+        "frame": 362,
+        "visibility": 1,
+        "x": 986.8292682926829,
+        "y": 351.0975609756098,
+        "interpolated": false
+      },
+      {
+        "frame": 363,
+        "visibility": 1,
+        "x": 983.8235294117648,
+        "y": 346.43382352941177,
+        "interpolated": false
+      },
+      {
+        "frame": 364,
+        "visibility": 1,
+        "x": 977.8571428571429,
+        "y": 339.1071428571429,
+        "interpolated": false
+      },
+      {
+        "frame": 365,
+        "visibility": 1,
+        "x": 982.3529411764705,
+        "y": 334.0257352941177,
+        "interpolated": false
+      },
+      {
+        "frame": 366,
+        "visibility": 1,
+        "x": 980.174418604651,
+        "y": 335.1744186046511,
+        "interpolated": false
+      },
+      {
+        "frame": 367,
+        "visibility": 1,
+        "x": 974.642857142857,
+        "y": 330.35714285714283,
+        "interpolated": false
+      },
+      {
+        "frame": 368,
+        "visibility": 1,
+        "x": 976.875,
+        "y": 335.625,
+        "interpolated": false
+      },
+      {
+        "frame": 369,
+        "visibility": 1,
+        "x": 976.8124999999999,
+        "y": 341.375,
+        "interpolated": false
+      },
+      {
+        "frame": 370,
+        "visibility": 0,
+        "x": 976.6354166666665,
+        "y": 343.7708333333333,
+        "interpolated": true
+      },
+      {
+        "frame": 371,
+        "visibility": 0,
+        "x": 976.4583333333333,
+        "y": 346.1666666666667,
+        "interpolated": true
+      },
+      {
+        "frame": 372,
+        "visibility": 1,
+        "x": 976.2812499999999,
+        "y": 348.5625,
+        "interpolated": false
+      },
+      {
+        "frame": 373,
+        "visibility": 1,
+        "x": 974.1935483870966,
+        "y": 360.0,
+        "interpolated": false
+      },
+      {
+        "frame": 374,
+        "visibility": 1,
+        "x": 971.9207317073169,
+        "y": 369.17682926829264,
+        "interpolated": false
+      },
+      {
+        "frame": 375,
+        "visibility": 1,
+        "x": 972.5198412698411,
+        "y": 379.7222222222222,
+        "interpolated": false
+      },
+      {
+        "frame": 376,
+        "visibility": 1,
+        "x": 971.4772727272727,
+        "y": 393.3238636363637,
+        "interpolated": false
+      },
+      {
+        "frame": 377,
+        "visibility": 1,
+        "x": 970.6707317073169,
+        "y": 406.7682926829268,
+        "interpolated": false
+      },
+      {
+        "frame": 378,
+        "visibility": 1,
+        "x": 970.3125,
+        "y": 420.234375,
+        "interpolated": false
+      },
+      {
+        "frame": 379,
+        "visibility": 1,
+        "x": 970.2631578947369,
+        "y": 436.57894736842104,
+        "interpolated": false
+      },
+      {
+        "frame": 380,
+        "visibility": 1,
+        "x": 969.8469387755101,
+        "y": 454.7959183673469,
+        "interpolated": false
+      },
+      {
+        "frame": 381,
+        "visibility": 1,
+        "x": 968.4308510638298,
+        "y": 473.4308510638297,
+        "interpolated": false
+      },
+      {
+        "frame": 382,
+        "visibility": 1,
+        "x": 968.2291666666665,
+        "y": 489.6875,
+        "interpolated": false
+      },
+      {
+        "frame": 383,
+        "visibility": 1,
+        "x": 972.0588235294117,
+        "y": 513.8480392156862,
+        "interpolated": false
+      },
+      {
+        "frame": 384,
+        "visibility": 1,
+        "x": 969.6071428571429,
+        "y": 534.5714285714286,
+        "interpolated": false
+      },
+      {
+        "frame": 385,
+        "visibility": 1,
+        "x": 963.6084905660377,
+        "y": 542.2169811320755,
+        "interpolated": false
+      },
+      {
+        "frame": 386,
+        "visibility": 1,
+        "x": 961.9642857142857,
+        "y": 517.5892857142858,
+        "interpolated": false
+      },
+      {
+        "frame": 387,
+        "visibility": 1,
+        "x": 950.625,
+        "y": 490.125,
+        "interpolated": false
+      },
+      {
+        "frame": 388,
+        "visibility": 1,
+        "x": 934.5192307692307,
+        "y": 460.4807692307692,
+        "interpolated": false
+      },
+      {
+        "frame": 389,
+        "visibility": 1,
+        "x": 922.0258620689655,
+        "y": 432.45689655172407,
+        "interpolated": false
+      },
+      {
+        "frame": 390,
+        "visibility": 1,
+        "x": 909.6874999999999,
+        "y": 409.7836538461538,
+        "interpolated": false
+      },
+      {
+        "frame": 391,
+        "visibility": 1,
+        "x": 895.7407407407406,
+        "y": 386.8981481481481,
+        "interpolated": false
+      },
+      {
+        "frame": 392,
+        "visibility": 1,
+        "x": 883.9030612244898,
+        "y": 366.9132653061224,
+        "interpolated": false
+      },
+      {
+        "frame": 393,
+        "visibility": 1,
+        "x": 873.6513157894738,
+        "y": 346.25,
+        "interpolated": false
+      },
+      {
+        "frame": 394,
+        "visibility": 1,
+        "x": 860.625,
+        "y": 330.8630952380952,
+        "interpolated": false
+      },
+      {
+        "frame": 395,
+        "visibility": 1,
+        "x": 850.8593749999999,
+        "y": 315.546875,
+        "interpolated": false
+      },
+      {
+        "frame": 396,
+        "visibility": 1,
+        "x": 838.203125,
+        "y": 302.3177083333333,
+        "interpolated": false
+      },
+      {
+        "frame": 397,
+        "visibility": 1,
+        "x": 826.6071428571428,
+        "y": 290.7440476190476,
+        "interpolated": false
+      },
+      {
+        "frame": 398,
+        "visibility": 1,
+        "x": 816.0054347826086,
+        "y": 280.54347826086956,
+        "interpolated": false
+      },
+      {
+        "frame": 399,
+        "visibility": 1,
+        "x": 805.3571428571428,
+        "y": 269.8928571428571,
+        "interpolated": false
+      },
+      {
+        "frame": 400,
+        "visibility": 1,
+        "x": 792.2972972972973,
+        "y": 263.6486486486486,
+        "interpolated": false
+      },
+      {
+        "frame": 401,
+        "visibility": 1,
+        "x": 781.4627659574468,
+        "y": 255.53191489361703,
+        "interpolated": false
+      },
+      {
+        "frame": 402,
+        "visibility": 1,
+        "x": 773.7249999999999,
+        "y": 252.19999999999996,
+        "interpolated": false
+      },
+      {
+        "frame": 403,
+        "visibility": 1,
+        "x": 762.9360465116279,
+        "y": 250.55232558139537,
+        "interpolated": false
+      },
+      {
+        "frame": 404,
+        "visibility": 1,
+        "x": 749.831081081081,
+        "y": 249.15540540540536,
+        "interpolated": false
+      },
+      {
+        "frame": 405,
+        "visibility": 1,
+        "x": 740.0245098039215,
+        "y": 247.62254901960785,
+        "interpolated": false
+      },
+      {
+        "frame": 406,
+        "visibility": 1,
+        "x": 731.4204545454545,
+        "y": 248.38068181818184,
+        "interpolated": false
+      },
+      {
+        "frame": 407,
+        "visibility": 1,
+        "x": 718.3333333333333,
+        "y": 251.41025641025635,
+        "interpolated": false
+      },
+      {
+        "frame": 408,
+        "visibility": 1,
+        "x": 708.2142857142858,
+        "y": 255.95238095238093,
+        "interpolated": false
+      },
+      {
+        "frame": 409,
+        "visibility": 1,
+        "x": 700.25,
+        "y": 262.8214285714286,
+        "interpolated": false
+      },
+      {
+        "frame": 410,
+        "visibility": 1,
+        "x": 688.125,
+        "y": 265.6845238095238,
+        "interpolated": false
+      },
+      {
+        "frame": 411,
+        "visibility": 1,
+        "x": 680.3506097560976,
+        "y": 274.55792682926824,
+        "interpolated": false
+      },
+      {
+        "frame": 412,
+        "visibility": 1,
+        "x": 669.8940677966101,
+        "y": 283.3050847457627,
+        "interpolated": false
+      },
+      {
+        "frame": 413,
+        "visibility": 1,
+        "x": 662.9910714285713,
+        "y": 294.19642857142856,
+        "interpolated": false
+      },
+      {
+        "frame": 414,
+        "visibility": 1,
+        "x": 655.2884615384614,
+        "y": 304.5192307692307,
+        "interpolated": false
+      },
+      {
+        "frame": 415,
+        "visibility": 1,
+        "x": 646.2941176470588,
+        "y": 320.63235294117646,
+        "interpolated": false
+      },
+      {
+        "frame": 416,
+        "visibility": 1,
+        "x": 639.6774193548388,
+        "y": 334.5362903225806,
+        "interpolated": false
+      },
+      {
+        "frame": 417,
+        "visibility": 1,
+        "x": 630.0914634146342,
+        "y": 351.5091463414634,
+        "interpolated": false
+      },
+      {
+        "frame": 418,
+        "visibility": 1,
+        "x": 617.1666666666666,
+        "y": 364.91666666666663,
+        "interpolated": false
+      },
+      {
+        "frame": 419,
+        "visibility": 1,
+        "x": 613.1153846153845,
+        "y": 384.21153846153845,
+        "interpolated": false
+      },
+      {
+        "frame": 420,
+        "visibility": 1,
+        "x": 605.617816091954,
+        "y": 407.04022988505744,
+        "interpolated": false
+      },
+      {
+        "frame": 421,
+        "visibility": 1,
+        "x": 593.9618644067797,
+        "y": 428.47457627118644,
+        "interpolated": false
+      },
+      {
+        "frame": 422,
+        "visibility": 1,
+        "x": 589.75,
+        "y": 450.0833333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 423,
+        "visibility": 0,
+        "x": 637.5208333333333,
+        "y": 464.9583333333333,
+        "interpolated": true
+      },
+      {
+        "frame": 424,
+        "visibility": 0,
+        "x": 685.2916666666666,
+        "y": 479.8333333333333,
+        "interpolated": true
+      },
+      {
+        "frame": 425,
+        "visibility": 0,
+        "x": 733.0625,
+        "y": 494.7083333333333,
+        "interpolated": true
+      },
+      {
+        "frame": 426,
+        "visibility": 1,
+        "x": 780.8333333333333,
+        "y": 509.5833333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 427,
+        "visibility": 1,
+        "x": 810.0,
+        "y": 525.0,
+        "interpolated": false
+      },
+      {
+        "frame": 428,
+        "visibility": 1,
+        "x": 849.375,
+        "y": 540.0,
+        "interpolated": false
+      },
+      {
+        "frame": 429,
+        "visibility": 1,
+        "x": 878.9772727272726,
+        "y": 555.2272727272726,
+        "interpolated": false
+      },
+      {
+        "frame": 430,
+        "visibility": 0,
+        "x": 898.3143939393939,
+        "y": 568.7310606060605,
+        "interpolated": true
+      },
+      {
+        "frame": 431,
+        "visibility": 0,
+        "x": 917.651515151515,
+        "y": 582.2348484848484,
+        "interpolated": true
+      },
+      {
+        "frame": 432,
+        "visibility": 0,
+        "x": 936.9886363636363,
+        "y": 595.7386363636363,
+        "interpolated": true
+      },
+      {
+        "frame": 433,
+        "visibility": 0,
+        "x": 956.3257575757575,
+        "y": 609.2424242424242,
+        "interpolated": true
+      },
+      {
+        "frame": 434,
+        "visibility": 0,
+        "x": 975.6628787878786,
+        "y": 622.7462121212121,
+        "interpolated": true
+      },
+      {
+        "frame": 435,
+        "visibility": 1,
+        "x": 994.9999999999999,
+        "y": 636.25,
+        "interpolated": false
+      },
+      {
+        "frame": 436,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 437,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 438,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 439,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 440,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 441,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 442,
+        "visibility": 1,
+        "x": 917.5,
+        "y": 559.7499999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 443,
+        "visibility": 1,
+        "x": 911.25,
+        "y": 555.625,
+        "interpolated": false
+      },
+      {
+        "frame": 444,
+        "visibility": 0,
+        "x": 899.299645390071,
+        "y": 548.5106382978723,
+        "interpolated": true
+      },
+      {
+        "frame": 445,
+        "visibility": 0,
+        "x": 887.3492907801418,
+        "y": 541.3962765957448,
+        "interpolated": true
+      },
+      {
+        "frame": 446,
+        "visibility": 1,
+        "x": 875.3989361702128,
+        "y": 534.2819148936171,
+        "interpolated": false
+      },
+      {
+        "frame": 447,
+        "visibility": 1,
+        "x": 858.0681818181818,
+        "y": 534.4318181818181,
+        "interpolated": false
+      },
+      {
+        "frame": 448,
+        "visibility": 0,
+        "x": 852.4851778656125,
+        "y": 535.8843873517786,
+        "interpolated": true
+      },
+      {
+        "frame": 449,
+        "visibility": 1,
+        "x": 846.9021739130434,
+        "y": 537.3369565217391,
+        "interpolated": false
+      },
+      {
+        "frame": 450,
+        "visibility": 1,
+        "x": 842.4218749999999,
+        "y": 538.125,
+        "interpolated": false
+      },
+      {
+        "frame": 451,
+        "visibility": 0,
+        "x": 841.7226080246912,
+        "y": 547.3148148148148,
+        "interpolated": true
+      },
+      {
+        "frame": 452,
+        "visibility": 0,
+        "x": 841.0233410493827,
+        "y": 556.5046296296297,
+        "interpolated": true
+      },
+      {
+        "frame": 453,
+        "visibility": 1,
+        "x": 840.324074074074,
+        "y": 565.6944444444445,
+        "interpolated": false
+      },
+      {
+        "frame": 454,
+        "visibility": 0,
+        "x": 838.966049382716,
+        "y": 574.3853767560664,
+        "interpolated": true
+      },
+      {
+        "frame": 455,
+        "visibility": 0,
+        "x": 837.608024691358,
+        "y": 583.0763090676883,
+        "interpolated": true
+      },
+      {
+        "frame": 456,
+        "visibility": 1,
+        "x": 836.25,
+        "y": 591.7672413793102,
+        "interpolated": false
+      },
+      {
+        "frame": 457,
+        "visibility": 1,
+        "x": 836.547619047619,
+        "y": 601.6666666666665,
+        "interpolated": false
+      },
+      {
+        "frame": 458,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 459,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 460,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 461,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 462,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 463,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 464,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 465,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 466,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 467,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 468,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 469,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 470,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 471,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 472,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 473,
+        "visibility": 1,
+        "x": 933.6029411764706,
+        "y": 647.6960784313725,
+        "interpolated": false
+      },
+      {
+        "frame": 474,
+        "visibility": 1,
+        "x": 941.3671875,
+        "y": 650.5078125,
+        "interpolated": false
+      },
+      {
+        "frame": 475,
+        "visibility": 1,
+        "x": 955.0,
+        "y": 652.5,
+        "interpolated": false
+      },
+      {
+        "frame": 476,
+        "visibility": 0,
+        "x": 963.3333333333333,
+        "y": 659.3560606060606,
+        "interpolated": true
+      },
+      {
+        "frame": 477,
+        "visibility": 1,
+        "x": 971.6666666666665,
+        "y": 666.2121212121212,
+        "interpolated": false
+      },
+      {
+        "frame": 478,
+        "visibility": 1,
+        "x": 979.5833333333334,
+        "y": 675.0,
+        "interpolated": false
+      },
+      {
+        "frame": 479,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 480,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 481,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 482,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 483,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 484,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 485,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 486,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 487,
+        "visibility": 1,
+        "x": 1015.5769230769231,
+        "y": 639.1346153846154,
+        "interpolated": false
+      },
+      {
+        "frame": 488,
+        "visibility": 0,
+        "x": 1013.2837995337995,
+        "y": 640.7561188811188,
+        "interpolated": true
+      },
+      {
+        "frame": 489,
+        "visibility": 0,
+        "x": 1010.990675990676,
+        "y": 642.3776223776224,
+        "interpolated": true
+      },
+      {
+        "frame": 490,
+        "visibility": 0,
+        "x": 1008.6975524475524,
+        "y": 643.9991258741259,
+        "interpolated": true
+      },
+      {
+        "frame": 491,
+        "visibility": 0,
+        "x": 1006.4044289044289,
+        "y": 645.6206293706293,
+        "interpolated": true
+      },
+      {
+        "frame": 492,
+        "visibility": 0,
+        "x": 1004.1113053613053,
+        "y": 647.2421328671329,
+        "interpolated": true
+      },
+      {
+        "frame": 493,
+        "visibility": 1,
+        "x": 1001.8181818181818,
+        "y": 648.8636363636364,
+        "interpolated": false
+      },
+      {
+        "frame": 494,
+        "visibility": 1,
+        "x": 996.6666666666666,
+        "y": 662.0833333333334,
+        "interpolated": false
+      },
+      {
+        "frame": 495,
+        "visibility": 1,
+        "x": 992.828947368421,
+        "y": 669.3421052631579,
+        "interpolated": false
+      },
+      {
+        "frame": 496,
+        "visibility": 1,
+        "x": 985.328947368421,
+        "y": 676.8421052631579,
+        "interpolated": false
+      },
+      {
+        "frame": 497,
+        "visibility": 1,
+        "x": 980.625,
+        "y": 673.125,
+        "interpolated": false
+      },
+      {
+        "frame": 498,
+        "visibility": 1,
+        "x": 981.75,
+        "y": 664.5,
+        "interpolated": false
+      },
+      {
+        "frame": 499,
+        "visibility": 1,
+        "x": 980.9558823529411,
+        "y": 656.5808823529412,
+        "interpolated": false
+      },
+      {
+        "frame": 500,
+        "visibility": 1,
+        "x": 973.2291666666666,
+        "y": 655.5555555555555,
+        "interpolated": false
+      },
+      {
+        "frame": 501,
+        "visibility": 1,
+        "x": 971.547619047619,
+        "y": 654.1666666666665,
+        "interpolated": false
+      },
+      {
+        "frame": 502,
+        "visibility": 1,
+        "x": 970.4629629629629,
+        "y": 650.787037037037,
+        "interpolated": false
+      },
+      {
+        "frame": 503,
+        "visibility": 1,
+        "x": 970.2134146341463,
+        "y": 651.1890243902438,
+        "interpolated": false
+      },
+      {
+        "frame": 504,
+        "visibility": 1,
+        "x": 966.1388888888889,
+        "y": 650.6944444444443,
+        "interpolated": false
+      },
+      {
+        "frame": 505,
+        "visibility": 1,
+        "x": 961.875,
+        "y": 652.2115384615386,
+        "interpolated": false
+      },
+      {
+        "frame": 506,
+        "visibility": 1,
+        "x": 960.8333333333334,
+        "y": 657.5,
+        "interpolated": false
+      },
+      {
+        "frame": 507,
+        "visibility": 1,
+        "x": 959.051724137931,
+        "y": 662.2844827586207,
+        "interpolated": false
+      },
+      {
+        "frame": 508,
+        "visibility": 1,
+        "x": 955.2777777777777,
+        "y": 666.9907407407406,
+        "interpolated": false
+      },
+      {
+        "frame": 509,
+        "visibility": 1,
+        "x": 951.1184210526316,
+        "y": 673.5526315789473,
+        "interpolated": false
+      },
+      {
+        "frame": 510,
+        "visibility": 1,
+        "x": 949.7641509433961,
+        "y": 680.5188679245282,
+        "interpolated": false
+      },
+      {
+        "frame": 511,
+        "visibility": 1,
+        "x": 948.181818181818,
+        "y": 684.375,
+        "interpolated": false
+      },
+      {
+        "frame": 512,
+        "visibility": 1,
+        "x": 945.625,
+        "y": 673.25,
+        "interpolated": false
+      },
+      {
+        "frame": 513,
+        "visibility": 1,
+        "x": 940.7115384615385,
+        "y": 668.5384615384615,
+        "interpolated": false
+      },
+      {
+        "frame": 514,
+        "visibility": 1,
+        "x": 935.8958333333333,
+        "y": 667.4375,
+        "interpolated": false
+      },
+      {
+        "frame": 515,
+        "visibility": 1,
+        "x": 936.25,
+        "y": 666.554054054054,
+        "interpolated": false
+      },
+      {
+        "frame": 516,
+        "visibility": 1,
+        "x": 932.2448979591836,
+        "y": 664.719387755102,
+        "interpolated": false
+      },
+      {
+        "frame": 517,
+        "visibility": 1,
+        "x": 927.3790322580644,
+        "y": 670.5645161290322,
+        "interpolated": false
+      },
+      {
+        "frame": 518,
+        "visibility": 1,
+        "x": 921.25,
+        "y": 670.0,
+        "interpolated": false
+      },
+      {
+        "frame": 519,
+        "visibility": 1,
+        "x": 924.3999999999999,
+        "y": 668.45,
+        "interpolated": false
+      },
+      {
+        "frame": 520,
+        "visibility": 1,
+        "x": 920.6944444444443,
+        "y": 676.3611111111111,
+        "interpolated": false
+      },
+      {
+        "frame": 521,
+        "visibility": 1,
+        "x": 915.6854838709677,
+        "y": 684.233870967742,
+        "interpolated": false
+      },
+      {
+        "frame": 522,
+        "visibility": 0,
+        "x": 913.2224462365591,
+        "y": 683.0712365591398,
+        "interpolated": true
+      },
+      {
+        "frame": 523,
+        "visibility": 0,
+        "x": 910.7594086021504,
+        "y": 681.9086021505376,
+        "interpolated": true
+      },
+      {
+        "frame": 524,
+        "visibility": 0,
+        "x": 908.2963709677418,
+        "y": 680.7459677419354,
+        "interpolated": true
+      },
+      {
+        "frame": 525,
+        "visibility": 1,
+        "x": 905.8333333333333,
+        "y": 679.5833333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 526,
+        "visibility": 0,
+        "x": 901.0532407407406,
+        "y": 679.7685185185185,
+        "interpolated": true
+      },
+      {
+        "frame": 527,
+        "visibility": 0,
+        "x": 896.273148148148,
+        "y": 679.9537037037037,
+        "interpolated": true
+      },
+      {
+        "frame": 528,
+        "visibility": 0,
+        "x": 891.4930555555555,
+        "y": 680.1388888888888,
+        "interpolated": true
+      },
+      {
+        "frame": 529,
+        "visibility": 1,
+        "x": 886.7129629629629,
+        "y": 680.324074074074,
+        "interpolated": false
+      },
+      {
+        "frame": 530,
+        "visibility": 1,
+        "x": 887.0945945945945,
+        "y": 686.4189189189187,
+        "interpolated": false
+      },
+      {
+        "frame": 531,
+        "visibility": 1,
+        "x": 884.7282608695651,
+        "y": 688.3152173913043,
+        "interpolated": false
+      },
+      {
+        "frame": 532,
+        "visibility": 0,
+        "x": 881.4010297482837,
+        "y": 688.4679633867277,
+        "interpolated": true
+      },
+      {
+        "frame": 533,
+        "visibility": 0,
+        "x": 878.0737986270022,
+        "y": 688.620709382151,
+        "interpolated": true
+      },
+      {
+        "frame": 534,
+        "visibility": 0,
+        "x": 874.7465675057207,
+        "y": 688.7734553775744,
+        "interpolated": true
+      },
+      {
+        "frame": 535,
+        "visibility": 0,
+        "x": 871.4193363844392,
+        "y": 688.9262013729976,
+        "interpolated": true
+      },
+      {
+        "frame": 536,
+        "visibility": 1,
+        "x": 868.0921052631578,
+        "y": 689.078947368421,
+        "interpolated": false
+      },
+      {
+        "frame": 537,
+        "visibility": 1,
+        "x": 860.859375,
+        "y": 693.3203125,
+        "interpolated": false
+      },
+      {
+        "frame": 538,
+        "visibility": 1,
+        "x": 859.9375,
+        "y": 691.40625,
+        "interpolated": false
+      },
+      {
+        "frame": 539,
+        "visibility": 1,
+        "x": 854.1847826086957,
+        "y": 695.7880434782609,
+        "interpolated": false
+      },
+      {
+        "frame": 540,
+        "visibility": 1,
+        "x": 852.1484374999999,
+        "y": 702.109375,
+        "interpolated": false
+      },
+      {
+        "frame": 541,
+        "visibility": 0,
+        "x": 848.0247395833333,
+        "y": 702.6744791666666,
+        "interpolated": true
+      },
+      {
+        "frame": 542,
+        "visibility": 0,
+        "x": 843.9010416666666,
+        "y": 703.2395833333334,
+        "interpolated": true
+      },
+      {
+        "frame": 543,
+        "visibility": 0,
+        "x": 839.77734375,
+        "y": 703.8046875,
+        "interpolated": true
+      },
+      {
+        "frame": 544,
+        "visibility": 0,
+        "x": 835.6536458333333,
+        "y": 704.3697916666666,
+        "interpolated": true
+      },
+      {
+        "frame": 545,
+        "visibility": 0,
+        "x": 831.5299479166666,
+        "y": 704.9348958333334,
+        "interpolated": true
+      },
+      {
+        "frame": 546,
+        "visibility": 1,
+        "x": 827.40625,
+        "y": 705.5,
+        "interpolated": false
+      },
+      {
+        "frame": 547,
+        "visibility": 1,
+        "x": 819.9431818181818,
+        "y": 706.875,
+        "interpolated": false
+      },
+      {
+        "frame": 548,
+        "visibility": 1,
+        "x": 823.125,
+        "y": 701.25,
+        "interpolated": false
+      },
+      {
+        "frame": 549,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 550,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 551,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 552,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 553,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 554,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 555,
+        "visibility": 1,
+        "x": 789.0441176470588,
+        "y": 704.6691176470588,
+        "interpolated": false
+      },
+      {
+        "frame": 556,
+        "visibility": 1,
+        "x": 784.6266233766233,
+        "y": 710.3733766233767,
+        "interpolated": false
+      },
+      {
+        "frame": 557,
+        "visibility": 1,
+        "x": 782.5178571428571,
+        "y": 711.8928571428571,
+        "interpolated": false
+      },
+      {
+        "frame": 558,
+        "visibility": 1,
+        "x": 778.5416666666666,
+        "y": 711.125,
+        "interpolated": false
+      },
+      {
+        "frame": 559,
+        "visibility": 1,
+        "x": 776.547619047619,
+        "y": 714.5833333333334,
+        "interpolated": false
+      },
+      {
+        "frame": 560,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 561,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 562,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 563,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 564,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 565,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 566,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 567,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 568,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 569,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 570,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 571,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 572,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 573,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 574,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 575,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 576,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 577,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 578,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 579,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 580,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 581,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 582,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 583,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 584,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 585,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 586,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 587,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 588,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 589,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 590,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 591,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 592,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 593,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 594,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 595,
+        "visibility": 1,
+        "x": 735.9166666666666,
+        "y": 606.6666666666666,
+        "interpolated": false
+      },
+      {
+        "frame": 596,
+        "visibility": 1,
+        "x": 738.75,
+        "y": 598.125,
+        "interpolated": false
+      },
+      {
+        "frame": 597,
+        "visibility": 1,
+        "x": 736.4311594202898,
+        "y": 577.463768115942,
+        "interpolated": false
+      },
+      {
+        "frame": 598,
+        "visibility": 1,
+        "x": 732.6063829787234,
+        "y": 564.627659574468,
+        "interpolated": false
+      },
+      {
+        "frame": 599,
+        "visibility": 1,
+        "x": 729.0625,
+        "y": 552.4479166666665,
+        "interpolated": false
+      },
+      {
+        "frame": 600,
+        "visibility": 1,
+        "x": 731.4999999999999,
+        "y": 541.5,
+        "interpolated": false
+      },
+      {
+        "frame": 601,
+        "visibility": 1,
+        "x": 741.3081395348836,
+        "y": 525.5232558139535,
+        "interpolated": false
+      },
+      {
+        "frame": 602,
+        "visibility": 1,
+        "x": 752.125,
+        "y": 510.0,
+        "interpolated": false
+      },
+      {
+        "frame": 603,
+        "visibility": 1,
+        "x": 760.0892857142858,
+        "y": 493.4821428571429,
+        "interpolated": false
+      },
+      {
+        "frame": 604,
+        "visibility": 1,
+        "x": 769.2592592592591,
+        "y": 480.50925925925924,
+        "interpolated": false
+      },
+      {
+        "frame": 605,
+        "visibility": 1,
+        "x": 781.8589743589744,
+        "y": 467.0833333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 606,
+        "visibility": 1,
+        "x": 791.25,
+        "y": 459.375,
+        "interpolated": false
+      },
+      {
+        "frame": 607,
+        "visibility": 0,
+        "x": 800.1964285714286,
+        "y": 453.00892857142856,
+        "interpolated": true
+      },
+      {
+        "frame": 608,
+        "visibility": 1,
+        "x": 809.1428571428571,
+        "y": 446.6428571428571,
+        "interpolated": false
+      },
+      {
+        "frame": 609,
+        "visibility": 1,
+        "x": 821.25,
+        "y": 442.91666666666663,
+        "interpolated": false
+      },
+      {
+        "frame": 610,
+        "visibility": 1,
+        "x": 834.375,
+        "y": 435.0,
+        "interpolated": false
+      },
+      {
+        "frame": 611,
+        "visibility": 1,
+        "x": 844.1768292682926,
+        "y": 433.96341463414626,
+        "interpolated": false
+      },
+      {
+        "frame": 612,
+        "visibility": 1,
+        "x": 851.9791666666667,
+        "y": 432.2916666666667,
+        "interpolated": false
+      },
+      {
+        "frame": 613,
+        "visibility": 1,
+        "x": 866.25,
+        "y": 435.0,
+        "interpolated": false
+      },
+      {
+        "frame": 614,
+        "visibility": 1,
+        "x": 879.1818181818181,
+        "y": 442.68181818181813,
+        "interpolated": false
+      },
+      {
+        "frame": 615,
+        "visibility": 1,
+        "x": 894.8,
+        "y": 448.9,
+        "interpolated": false
+      },
+      {
+        "frame": 616,
+        "visibility": 1,
+        "x": 902.3717948717948,
+        "y": 453.301282051282,
+        "interpolated": false
+      },
+      {
+        "frame": 617,
+        "visibility": 1,
+        "x": 914.84375,
+        "y": 463.0208333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 618,
+        "visibility": 1,
+        "x": 925.3525641025641,
+        "y": 474.9679487179487,
+        "interpolated": false
+      },
+      {
+        "frame": 619,
+        "visibility": 1,
+        "x": 938.0769230769231,
+        "y": 491.03365384615375,
+        "interpolated": false
+      },
+      {
+        "frame": 620,
+        "visibility": 1,
+        "x": 948.377659574468,
+        "y": 507.57978723404256,
+        "interpolated": false
+      },
+      {
+        "frame": 621,
+        "visibility": 1,
+        "x": 954.3367346938776,
+        "y": 512.9336734693877,
+        "interpolated": false
+      },
+      {
+        "frame": 622,
+        "visibility": 1,
+        "x": 953.3962264150942,
+        "y": 515.3066037735848,
+        "interpolated": false
+      },
+      {
+        "frame": 623,
+        "visibility": 1,
+        "x": 952.7243589743589,
+        "y": 521.4743589743589,
+        "interpolated": false
+      },
+      {
+        "frame": 624,
+        "visibility": 1,
+        "x": 956.475,
+        "y": 530.425,
+        "interpolated": false
+      },
+      {
+        "frame": 625,
+        "visibility": 1,
+        "x": 956.25,
+        "y": 538.9,
+        "interpolated": false
+      },
+      {
+        "frame": 626,
+        "visibility": 1,
+        "x": 957.8499999999999,
+        "y": 548.0,
+        "interpolated": false
+      },
+      {
+        "frame": 627,
+        "visibility": 1,
+        "x": 958.7268518518518,
+        "y": 556.7592592592592,
+        "interpolated": false
+      },
+      {
+        "frame": 628,
+        "visibility": 1,
+        "x": 958.55,
+        "y": 571.3249999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 629,
+        "visibility": 1,
+        "x": 953.9499999999999,
+        "y": 576.9499999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 630,
+        "visibility": 1,
+        "x": 957.3979591836734,
+        "y": 587.4234693877551,
+        "interpolated": false
+      },
+      {
+        "frame": 631,
+        "visibility": 1,
+        "x": 956.25,
+        "y": 596.25,
+        "interpolated": false
+      },
+      {
+        "frame": 632,
+        "visibility": 1,
+        "x": 958.125,
+        "y": 609.7222222222222,
+        "interpolated": false
+      },
+      {
+        "frame": 633,
+        "visibility": 1,
+        "x": 964.21875,
+        "y": 622.6116071428571,
+        "interpolated": false
+      },
+      {
+        "frame": 634,
+        "visibility": 1,
+        "x": 969.9999999999999,
+        "y": 628.75,
+        "interpolated": false
+      },
+      {
+        "frame": 635,
+        "visibility": 1,
+        "x": 973.9224137931033,
+        "y": 636.6379310344827,
+        "interpolated": false
+      },
+      {
+        "frame": 636,
+        "visibility": 1,
+        "x": 981.5151515151513,
+        "y": 641.3446969696969,
+        "interpolated": false
+      },
+      {
+        "frame": 637,
+        "visibility": 1,
+        "x": 983.5227272727273,
+        "y": 634.9999999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 638,
+        "visibility": 1,
+        "x": 981.1191860465115,
+        "y": 621.4970930232558,
+        "interpolated": false
+      },
+      {
+        "frame": 639,
+        "visibility": 1,
+        "x": 981.7073170731705,
+        "y": 620.060975609756,
+        "interpolated": false
+      },
+      {
+        "frame": 640,
+        "visibility": 1,
+        "x": 982.7450980392156,
+        "y": 610.3186274509803,
+        "interpolated": false
+      },
+      {
+        "frame": 641,
+        "visibility": 1,
+        "x": 986.9915254237287,
+        "y": 607.1398305084745,
+        "interpolated": false
+      },
+      {
+        "frame": 642,
+        "visibility": 1,
+        "x": 1001.0511363636364,
+        "y": 609.1477272727273,
+        "interpolated": false
+      },
+      {
+        "frame": 643,
+        "visibility": 1,
+        "x": 1003.125,
+        "y": 611.25,
+        "interpolated": false
+      },
+      {
+        "frame": 644,
+        "visibility": 1,
+        "x": 1013.3,
+        "y": 612.975,
+        "interpolated": false
+      },
+      {
+        "frame": 645,
+        "visibility": 1,
+        "x": 1017.824074074074,
+        "y": 624.2129629629629,
+        "interpolated": false
+      },
+      {
+        "frame": 646,
+        "visibility": 1,
+        "x": 1021.4583333333335,
+        "y": 642.0138888888889,
+        "interpolated": false
+      },
+      {
+        "frame": 647,
+        "visibility": 1,
+        "x": 1023.6764705882351,
+        "y": 672.7205882352941,
+        "interpolated": false
+      },
+      {
+        "frame": 648,
+        "visibility": 1,
+        "x": 1023.9393939393939,
+        "y": 714.6212121212121,
+        "interpolated": false
+      },
+      {
+        "frame": 649,
+        "visibility": 1,
+        "x": 1029.1666666666667,
+        "y": 756.5277777777778,
+        "interpolated": false
+      },
+      {
+        "frame": 650,
+        "visibility": 0,
+        "x": 1028.3333333333335,
+        "y": 788.8888888888889,
+        "interpolated": true
+      },
+      {
+        "frame": 651,
+        "visibility": 1,
+        "x": 1027.5,
+        "y": 821.25,
+        "interpolated": false
+      },
+      {
+        "frame": 652,
+        "visibility": 1,
+        "x": 1029.0624999999998,
+        "y": 774.375,
+        "interpolated": false
+      },
+      {
+        "frame": 653,
+        "visibility": 1,
+        "x": 1024.3749999999998,
+        "y": 749.6875,
+        "interpolated": false
+      },
+      {
+        "frame": 654,
+        "visibility": 1,
+        "x": 1027.03488372093,
+        "y": 717.8197674418604,
+        "interpolated": false
+      },
+      {
+        "frame": 655,
+        "visibility": 1,
+        "x": 1027.7380952380952,
+        "y": 695.297619047619,
+        "interpolated": false
+      },
+      {
+        "frame": 656,
+        "visibility": 1,
+        "x": 1028.9204545454545,
+        "y": 674.6590909090909,
+        "interpolated": false
+      },
+      {
+        "frame": 657,
+        "visibility": 1,
+        "x": 1039.1666666666665,
+        "y": 658.9393939393939,
+        "interpolated": false
+      },
+      {
+        "frame": 658,
+        "visibility": 1,
+        "x": 1055.5,
+        "y": 642.2499999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 659,
+        "visibility": 1,
+        "x": 1050.953947368421,
+        "y": 634.2105263157894,
+        "interpolated": false
+      },
+      {
+        "frame": 660,
+        "visibility": 1,
+        "x": 1055.2112676056338,
+        "y": 624.6478873239437,
+        "interpolated": false
+      },
+      {
+        "frame": 661,
+        "visibility": 1,
+        "x": 1062.9032258064517,
+        "y": 619.8991935483871,
+        "interpolated": false
+      },
+      {
+        "frame": 662,
+        "visibility": 1,
+        "x": 1068.1617647058822,
+        "y": 628.6029411764706,
+        "interpolated": false
+      },
+      {
+        "frame": 663,
+        "visibility": 1,
+        "x": 1074.9107142857144,
+        "y": 629.4642857142858,
+        "interpolated": false
+      },
+      {
+        "frame": 664,
+        "visibility": 1,
+        "x": 1078.9634146341461,
+        "y": 631.1585365853657,
+        "interpolated": false
+      },
+      {
+        "frame": 665,
+        "visibility": 1,
+        "x": 1082.7499999999998,
+        "y": 628.25,
+        "interpolated": false
+      },
+      {
+        "frame": 666,
+        "visibility": 1,
+        "x": 1089.75,
+        "y": 649.5833333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 667,
+        "visibility": 1,
+        "x": 1095.0,
+        "y": 656.71875,
+        "interpolated": false
+      },
+      {
+        "frame": 668,
+        "visibility": 1,
+        "x": 1102.142857142857,
+        "y": 659.6428571428571,
+        "interpolated": false
+      },
+      {
+        "frame": 669,
+        "visibility": 0,
+        "x": 1107.1651785714284,
+        "y": 657.1651785714286,
+        "interpolated": true
+      },
+      {
+        "frame": 670,
+        "visibility": 1,
+        "x": 1112.1875,
+        "y": 654.6875,
+        "interpolated": false
+      },
+      {
+        "frame": 671,
+        "visibility": 1,
+        "x": 1116.2499999999998,
+        "y": 653.7499999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 672,
+        "visibility": 1,
+        "x": 1123.0769230769229,
+        "y": 657.2115384615383,
+        "interpolated": false
+      },
+      {
+        "frame": 673,
+        "visibility": 1,
+        "x": 1130.2380952380952,
+        "y": 654.9404761904761,
+        "interpolated": false
+      },
+      {
+        "frame": 674,
+        "visibility": 0,
+        "x": 1132.109179197995,
+        "y": 660.5952380952381,
+        "interpolated": true
+      },
+      {
+        "frame": 675,
+        "visibility": 1,
+        "x": 1133.9802631578948,
+        "y": 666.25,
+        "interpolated": false
+      },
+      {
+        "frame": 676,
+        "visibility": 1,
+        "x": 1134.6323529411761,
+        "y": 669.1176470588234,
+        "interpolated": false
+      },
+      {
+        "frame": 677,
+        "visibility": 0,
+        "x": 1141.8102240896355,
+        "y": 677.892156862745,
+        "interpolated": true
+      },
+      {
+        "frame": 678,
+        "visibility": 1,
+        "x": 1148.9880952380952,
+        "y": 686.6666666666665,
+        "interpolated": false
+      },
+      {
+        "frame": 679,
+        "visibility": 1,
+        "x": 1148.532608695652,
+        "y": 684.7282608695651,
+        "interpolated": false
+      },
+      {
+        "frame": 680,
+        "visibility": 1,
+        "x": 1158.75,
+        "y": 688.875,
+        "interpolated": false
+      },
+      {
+        "frame": 681,
+        "visibility": 1,
+        "x": 1163.9166666666665,
+        "y": 679.9583333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 682,
+        "visibility": 1,
+        "x": 1170.4326923076924,
+        "y": 680.7692307692308,
+        "interpolated": false
+      },
+      {
+        "frame": 683,
+        "visibility": 1,
+        "x": 1183.125,
+        "y": 684.375,
+        "interpolated": false
+      },
+      {
+        "frame": 684,
+        "visibility": 1,
+        "x": 1194.5,
+        "y": 670.25,
+        "interpolated": false
+      },
+      {
+        "frame": 685,
+        "visibility": 1,
+        "x": 1211.8382352941176,
+        "y": 662.7941176470589,
+        "interpolated": false
+      },
+      {
+        "frame": 686,
+        "visibility": 1,
+        "x": 1217.8,
+        "y": 670.15,
+        "interpolated": false
+      },
+      {
+        "frame": 687,
+        "visibility": 1,
+        "x": 1232.4642857142858,
+        "y": 669.6071428571428,
+        "interpolated": false
+      },
+      {
+        "frame": 688,
+        "visibility": 1,
+        "x": 1251.6223404255318,
+        "y": 682.2606382978723,
+        "interpolated": false
+      },
+      {
+        "frame": 689,
+        "visibility": 1,
+        "x": 1255.5,
+        "y": 683.25,
+        "interpolated": false
+      },
+      {
+        "frame": 690,
+        "visibility": 1,
+        "x": 1263.75,
+        "y": 685.4166666666665,
+        "interpolated": false
+      },
+      {
+        "frame": 691,
+        "visibility": 1,
+        "x": 1269.9999999999998,
+        "y": 686.3636363636364,
+        "interpolated": false
+      },
+      {
+        "frame": 692,
+        "visibility": 1,
+        "x": 1275.5208333333333,
+        "y": 690.15625,
+        "interpolated": false
+      },
+      {
+        "frame": 693,
+        "visibility": 1,
+        "x": 1280.0735294117649,
+        "y": 691.5073529411764,
+        "interpolated": false
+      },
+      {
+        "frame": 694,
+        "visibility": 1,
+        "x": 1286.625,
+        "y": 689.4583333333333,
+        "interpolated": false
+      },
+      {
+        "frame": 695,
+        "visibility": 1,
+        "x": 1288.6029411764703,
+        "y": 703.9705882352941,
+        "interpolated": false
+      },
+      {
+        "frame": 696,
+        "visibility": 1,
+        "x": 1297.0681818181815,
+        "y": 702.9318181818181,
+        "interpolated": false
+      },
+      {
+        "frame": 697,
+        "visibility": 1,
+        "x": 1299.4722222222222,
+        "y": 707.0,
+        "interpolated": false
+      },
+      {
+        "frame": 698,
+        "visibility": 1,
+        "x": 1303.888888888889,
+        "y": 723.6666666666666,
+        "interpolated": false
+      },
+      {
+        "frame": 699,
+        "visibility": 1,
+        "x": 1311.9975490196077,
+        "y": 730.0122549019607,
+        "interpolated": false
+      },
+      {
+        "frame": 700,
+        "visibility": 1,
+        "x": 1317.6490825688072,
+        "y": 737.2935779816512,
+        "interpolated": false
+      },
+      {
+        "frame": 701,
+        "visibility": 1,
+        "x": 1327.0639534883721,
+        "y": 742.0639534883721,
+        "interpolated": false
+      },
+      {
+        "frame": 702,
+        "visibility": 1,
+        "x": 1334.3543956043957,
+        "y": 741.2362637362637,
+        "interpolated": false
+      },
+      {
+        "frame": 703,
+        "visibility": 1,
+        "x": 1351.6927083333333,
+        "y": 742.1614583333333,
+        "interpolated": false
+      },
+      {
+        "frame": 704,
+        "visibility": 1,
+        "x": 1363.6458333333335,
+        "y": 745.46875,
+        "interpolated": false
+      },
+      {
+        "frame": 705,
+        "visibility": 1,
+        "x": 1407.083333333333,
+        "y": 761.25,
+        "interpolated": false
+      },
+      {
+        "frame": 706,
+        "visibility": 1,
+        "x": 1394.4565217391303,
+        "y": 756.4673913043478,
+        "interpolated": false
+      },
+      {
+        "frame": 707,
+        "visibility": 1,
+        "x": 1445.6730769230767,
+        "y": 752.5,
+        "interpolated": false
+      },
+      {
+        "frame": 708,
+        "visibility": 1,
+        "x": 1458.9673913043478,
+        "y": 748.2391304347825,
+        "interpolated": false
+      },
+      {
+        "frame": 709,
+        "visibility": 1,
+        "x": 1472.4999999999998,
+        "y": 754.9999999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 710,
+        "visibility": 1,
+        "x": 1450.4166666666667,
+        "y": 718.3333333333334,
+        "interpolated": false
+      },
+      {
+        "frame": 711,
+        "visibility": 1,
+        "x": 1500.3906249999998,
+        "y": 757.5,
+        "interpolated": false
+      },
+      {
+        "frame": 712,
+        "visibility": 1,
+        "x": 1527.5,
+        "y": 758.7499999999999,
+        "interpolated": false
+      },
+      {
+        "frame": 713,
+        "visibility": 0,
+        "x": 1565.3935185185185,
+        "y": 775.787037037037,
+        "interpolated": true
+      },
+      {
+        "frame": 714,
+        "visibility": 1,
+        "x": 1603.287037037037,
+        "y": 792.824074074074,
+        "interpolated": false
+      },
+      {
+        "frame": 715,
+        "visibility": 1,
+        "x": 1635.833333333333,
+        "y": 782.0833333333334,
+        "interpolated": false
+      },
+      {
+        "frame": 716,
+        "visibility": 1,
+        "x": 1619.25,
+        "y": 798.0,
+        "interpolated": false
+      },
+      {
+        "frame": 717,
+        "visibility": 0,
+        "x": 1663.2346938775509,
+        "y": 809.1403061224489,
+        "interpolated": true
+      },
+      {
+        "frame": 718,
+        "visibility": 1,
+        "x": 1707.2193877551017,
+        "y": 820.2806122448978,
+        "interpolated": false
+      },
+      {
+        "frame": 719,
+        "visibility": 0,
+        "x": 1727.9456313775509,
+        "y": 843.9684311224489,
+        "interpolated": true
+      },
+      {
+        "frame": 720,
+        "visibility": 1,
+        "x": 1748.671875,
+        "y": 867.65625,
+        "interpolated": false
+      },
+      {
+        "frame": 721,
+        "visibility": 1,
+        "x": 1761.75,
+        "y": 867.3645833333333,
+        "interpolated": false
+      },
+      {
+        "frame": 722,
+        "visibility": 1,
+        "x": 1803.5757575757573,
+        "y": 884.1060606060605,
+        "interpolated": false
+      },
+      {
+        "frame": 723,
+        "visibility": 1,
+        "x": 1860.0,
+        "y": 919.3131868131867,
+        "interpolated": false
+      },
+      {
+        "frame": 724,
+        "visibility": 0,
+        "x": 1838.125,
+        "y": 909.7914585414585,
+        "interpolated": true
+      },
+      {
+        "frame": 725,
+        "visibility": 0,
+        "x": 1816.25,
+        "y": 900.2697302697302,
+        "interpolated": true
+      },
+      {
+        "frame": 726,
+        "visibility": 0,
+        "x": 1794.3749999999998,
+        "y": 890.748001998002,
+        "interpolated": true
+      },
+      {
+        "frame": 727,
+        "visibility": 0,
+        "x": 1772.4999999999998,
+        "y": 881.2262737262737,
+        "interpolated": true
+      },
+      {
+        "frame": 728,
+        "visibility": 1,
+        "x": 1750.6249999999998,
+        "y": 871.7045454545455,
+        "interpolated": false
+      },
+      {
+        "frame": 729,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 730,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 731,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 732,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 733,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 734,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 735,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 736,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 737,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 738,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 739,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 740,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 741,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 742,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 743,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 744,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 745,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 746,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 747,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 748,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      },
+      {
+        "frame": 749,
+        "visibility": 0,
+        "x": null,
+        "y": null,
+        "interpolated": false
+      }
+    ],
+    "apex_frames": [
+      13,
+      33,
+      318,
+      405,
+      447,
+      473,
+      487,
+      555,
+      611
+    ]
+  }
+}

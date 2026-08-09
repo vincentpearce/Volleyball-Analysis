@@ -1,0 +1,47 @@
+{
+  "video": {
+    "path": "data/samples/clip2_00-48-00.mp4",
+    "fps": 25.0,
+    "frame_count": 750,
+    "width": 1920,
+    "height": 1080
+  },
+  "pose": {
+    "hitters": [
+      {
+        "track_id": 3,
+        "frames_tracked": 750,
+        "jumps": [
+          {
+            "takeoff_frame": 238,
+            "landing_frame": 238,
+            "landing_confirmed": false,
+            "contact": null
+          },
+          {
+            "takeoff_frame": 242,
+            "landing_frame": 247,
+            "landing_confirmed": true,
+            "contact": null
+          }
+        ]
+      },
+      {
+        "track_id": 25,
+        "frames_tracked": 89,
+        "jumps": [
+          {
+            "takeoff_frame": 677,
+            "landing_frame": 677,
+            "landing_confirmed": false,
+            "contact": {
+              "contact_frame": 677,
+              "distance_px": 39.856967573842915,
+              "hand": "right"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

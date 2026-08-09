@@ -1,0 +1,41 @@
+{
+  "video": {
+    "path": "data/samples/clip2_00-48-00.mp4",
+    "fps": 25.0,
+    "frame_count": 750,
+    "width": 1920,
+    "height": 1080
+  },
+  "hits": [
+    {
+      "takeoff_frame": 238,
+      "landing_frame": 238,
+      "landing_confirmed": false,
+      "apex_frame": 238.0,
+      "contact_frame": null,
+      "timing_offset_ms": null,
+      "verdict": null,
+      "track_id": 3
+    },
+    {
+      "takeoff_frame": 242,
+      "landing_frame": 247,
+      "landing_confirmed": true,
+      "apex_frame": 244.5,
+      "contact_frame": null,
+      "timing_offset_ms": null,
+      "verdict": null,
+      "track_id": 3
+    },
+    {
+      "takeoff_frame": 677,
+      "landing_frame": 677,
+      "landing_confirmed": false,
+      "apex_frame": 677.0,
+      "contact_frame": 677,
+      "timing_offset_ms": 0.0,
+      "verdict": "on_time",
+      "track_id": 25
+    }
+  ]
+}

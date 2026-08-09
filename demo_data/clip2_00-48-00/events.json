@@ -1,0 +1,275 @@
+{
+  "video": {
+    "path": "data/samples/clip2_00-48-00.mp4",
+    "fps": 25.0,
+    "frame_count": 750,
+    "width": 1920,
+    "height": 1080
+  },
+  "events": [
+    {
+      "type": "serve",
+      "start_frame": 1,
+      "end_frame": 5,
+      "start_time": 0.04,
+      "end_time": 0.2,
+      "confidence": 0.6
+    },
+    {
+      "type": "set",
+      "start_frame": 5,
+      "end_frame": 15,
+      "start_time": 0.2,
+      "end_time": 0.6,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 15,
+      "end_frame": 34,
+      "start_time": 0.6,
+      "end_time": 1.36,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 34,
+      "end_frame": 62,
+      "start_time": 1.36,
+      "end_time": 2.48,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 62,
+      "end_frame": 76,
+      "start_time": 2.48,
+      "end_time": 3.04,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 76,
+      "end_frame": 111,
+      "start_time": 3.04,
+      "end_time": 4.44,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 111,
+      "end_frame": 121,
+      "start_time": 4.44,
+      "end_time": 4.84,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 121,
+      "end_frame": 138,
+      "start_time": 4.84,
+      "end_time": 5.52,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 138,
+      "end_frame": 164,
+      "start_time": 5.52,
+      "end_time": 6.56,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 164,
+      "end_frame": 178,
+      "start_time": 6.56,
+      "end_time": 7.12,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 178,
+      "end_frame": 213,
+      "start_time": 7.12,
+      "end_time": 8.52,
+      "confidence": 0.5
+    },
+    {
+      "type": "set",
+      "start_frame": 213,
+      "end_frame": 235,
+      "start_time": 8.52,
+      "end_time": 9.4,
+      "confidence": 0.5
+    },
+    {
+      "type": "set",
+      "start_frame": 235,
+      "end_frame": 250,
+      "start_time": 9.4,
+      "end_time": 10.0,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 269,
+      "end_frame": 288,
+      "start_time": 10.76,
+      "end_time": 11.52,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 288,
+      "end_frame": 326,
+      "start_time": 11.52,
+      "end_time": 13.04,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 326,
+      "end_frame": 344,
+      "start_time": 13.04,
+      "end_time": 13.76,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 344,
+      "end_frame": 355,
+      "start_time": 13.76,
+      "end_time": 14.2,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 364,
+      "end_frame": 385,
+      "start_time": 14.56,
+      "end_time": 15.4,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 385,
+      "end_frame": 402,
+      "start_time": 15.4,
+      "end_time": 16.08,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 402,
+      "end_frame": 421,
+      "start_time": 16.08,
+      "end_time": 16.84,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 421,
+      "end_frame": 443,
+      "start_time": 16.84,
+      "end_time": 17.72,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 443,
+      "end_frame": 484,
+      "start_time": 17.72,
+      "end_time": 19.36,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 484,
+      "end_frame": 497,
+      "start_time": 19.36,
+      "end_time": 19.88,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 497,
+      "end_frame": 539,
+      "start_time": 19.88,
+      "end_time": 21.56,
+      "confidence": 0.5
+    },
+    {
+      "type": "set",
+      "start_frame": 539,
+      "end_frame": 576,
+      "start_time": 21.56,
+      "end_time": 23.04,
+      "confidence": 0.5
+    },
+    {
+      "type": "set",
+      "start_frame": 576,
+      "end_frame": 606,
+      "start_time": 23.04,
+      "end_time": 24.24,
+      "confidence": 0.5
+    },
+    {
+      "type": "set",
+      "start_frame": 606,
+      "end_frame": 623,
+      "start_time": 24.24,
+      "end_time": 24.92,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 637,
+      "end_frame": 653,
+      "start_time": 25.48,
+      "end_time": 26.12,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 653,
+      "end_frame": 666,
+      "start_time": 26.12,
+      "end_time": 26.64,
+      "confidence": 0.5
+    },
+    {
+      "type": "block",
+      "start_frame": 666,
+      "end_frame": 692,
+      "start_time": 26.64,
+      "end_time": 27.68,
+      "confidence": 0.4
+    },
+    {
+      "type": "set",
+      "start_frame": 692,
+      "end_frame": 712,
+      "start_time": 27.68,
+      "end_time": 28.48,
+      "confidence": 0.5
+    },
+    {
+      "type": "set",
+      "start_frame": 712,
+      "end_frame": 734,
+      "start_time": 28.48,
+      "end_time": 29.36,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 734,
+      "end_frame": 749,
+      "start_time": 29.36,
+      "end_time": 29.96,
+      "confidence": 0.3
+    }
+  ]
+}

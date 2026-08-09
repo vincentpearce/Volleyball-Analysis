@@ -1,0 +1,25 @@
+{
+  "video": {
+    "path": "data/samples/clip_00-42-20.mp4",
+    "fps": 25.0,
+    "frame_count": 750,
+    "width": 1920,
+    "height": 1080
+  },
+  "pose": {
+    "hitters": [
+      {
+        "track_id": 5,
+        "frames_tracked": 50,
+        "jumps": [
+          {
+            "takeoff_frame": 403,
+            "landing_frame": 405,
+            "landing_confirmed": false,
+            "contact": null
+          }
+        ]
+      }
+    ]
+  }
+}

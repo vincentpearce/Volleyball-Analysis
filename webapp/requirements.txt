@@ -1,0 +1,6 @@
+# Minimal deps for gallery_app.py (the public demo -- static, pre-computed
+# results only). Deliberately excludes the full ML stack in the project's
+# root requirements.txt (torch, ultralytics, onnxruntime, etc.) -- those are
+# only needed for app.py (the live, local-only version) and won't fit free
+# hosting's resource limits anyway.
+streamlit

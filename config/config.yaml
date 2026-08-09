@@ -1,0 +1,111 @@
+# Thresholds and paths for the volleyball timing analyzer.
+# Nothing here is hardcoded in code — all modules read from this file.
+
+timing:
+  # Tolerance window around apex for "on time" classification, in ms.
+  # TODO: tune once we have real contact/apex measurements to validate against.
+  tolerance_ms: 50
+
+pose:
+  # YOLO11-pose, off-the-shelf (COCO), not fine-tuned. Chosen over MediaPipe/RTMPose
+  # for native multi-person tracking and to reuse tooling already validated on this
+  # machine -- see pose/README.md.
+  model_path: pose/weights/yolo11m-pose.pt
+  # Ultralytics detection confidence -- separate from min_keypoint_confidence below,
+  # which gates individual keypoints once a person is already detected.
+  detection_confidence: 0.2
+  # Smoothing window (frames) applied to ankle y-signal before takeoff/landing detection.
+  smoothing_window: 5
+  # Minimum confidence for a keypoint to be trusted.
+  min_keypoint_confidence: 0.5
+  # Rolling-median window (frames) used to estimate the "standing" ground baseline
+  # for ankle y -- must be long enough to stay dominated by standing frames even
+  # while a jump is in progress (i.e. longer than a typical jump's frame count).
+  ground_baseline_window: 21
+  # Minimum ankle rise above baseline (pixels) to count as a real jump vs.
+  # keypoint jitter. Scale-dependent (varies with camera distance/resolution) --
+  # an MVP threshold, not a physical unit conversion.
+  jump_height_threshold_px: 15
+  # Minimum takeoff-to-landing duration (frames) to keep a detected jump --
+  # only applied when the landing was actually observed (see landing_confirmed
+  # in pose/jump_detection.py); a jump cut short by lost tracking is kept
+  # regardless of its observed length.
+  min_jump_frames: 4
+  # Tracks shorter than this are noise (a missed detection that briefly got a
+  # track ID) -- skip running jump detection on them entirely.
+  min_track_frames: 15
+  # A "closest approach" beyond this (pixels) isn't a real touch -- just the
+  # least-bad frame in a jump window where the ball was never actually near
+  # the hand (e.g. the true contact frame fell in a gap where tracking was
+  # lost, which is common: fast swings are exactly when pose tracking fails).
+  max_contact_distance_px: 60
+
+ball:
+  # vball-net (TrackNetV4-based), fine-tuned on ~1180 hand-labeled frames across
+  # two venues. See ball/README.md for how this was produced and how to add more
+  # labeled data later.
+  model_path: ball/weights/vballnet_finetuned_v3.onnx
+  # Heatmap binarization threshold for calling a pixel "the ball" (0-1). This is
+  # the value the fine-tuned model was actually evaluated against -- changing it
+  # changes the precision/recall tradeoff measured in ball/README.md.
+  min_detection_confidence: 0.5
+  # Max consecutive frames to interpolate across when the ball is undetected.
+  # Fine-tuning traded recall for precision (few wrong detections, more gaps),
+  # so gap interpolation is load-bearing -- revisit this value once Phase 1's
+  # apex/contact logic is built and validated against real clips.
+  max_gap_interpolation_frames: 5
+  # Moving-average window (frames) applied to the y-signal before apex detection,
+  # to avoid a single noisy detection reading as a false apex.
+  trajectory_smoothing_window: 3
+  # A continuous run of tracked/interpolated frames shorter than this isn't a
+  # real flight arc (serve toss, spike, etc.) -- skip it rather than mark a
+  # spurious apex.
+  min_flight_segment_frames: 5
+
+events:
+  # Heuristic classifier. events/label_events.py produces ground truth to check
+  # these against -- as of writing, still very thin (a couple of clips' worth)
+  # and confidence scores are relative, not calibrated. See events/README.md.
+  #
+  # Touch detection (splits a continuously-tracked trajectory at real hits,
+  # not just tracking gaps -- see events/touch_detection.py):
+  # Frames before/after each candidate point used to compute velocity.
+  touch_window_frames: 4
+  # Angle change (degrees) between incoming/outgoing velocity above which a
+  # point is flagged as a touch.
+  touch_angle_threshold_deg: 55
+  # Speed ratio (faster/slower) between incoming/outgoing velocity above which
+  # a point is flagged as a touch, even without a large angle change.
+  touch_speed_ratio_threshold: 2.0
+  # Below this speed (px/frame) velocity direction is too noisy to trust --
+  # skip touch detection at those points.
+  touch_min_speed_px: 3
+  #
+  # Classification (applied per touch-bounded sub-segment):
+  # A gap this long (frames) since the previous sub-segment ended means the
+  # ball was dead -- the next touch starts a new rally, i.e. a serve.
+  serve_gap_frames: 30
+  # How close (frames) a segment's start must be to a pose-detected jump's
+  # contact_frame to attribute that touch to a jumping hit.
+  jump_contact_tolerance_frames: 3
+  # Horizontal ball displacement (px) over a segment above which a jumping hit
+  # is classified as a spike (ball sent across court) rather than a block
+  # (ball deflected, doesn't travel far) -- scale-dependent, like ball/pose's
+  # pixel thresholds.
+  spike_min_horizontal_displacement_px: 200
+  # Vertical rise from segment start to its apex (px) above which a non-jump
+  # touch is classified as a set (controlled, high arc) rather than a dig
+  # (flatter, defensive). Also scale-dependent.
+  set_min_apex_rise_px: 80
+  #
+  # Learned classifier (--classifier learned, events/learned_classify.py):
+  # YOLO11s-cls fine-tuned on professional match footage. 94.7% on that
+  # footage's own held-out test set, ~11.5% on our club-level clips -- use for
+  # footage that looks like professional play, not for footage like this
+  # project's own samples (the heuristic above, imperfect as it is, does
+  # better on those). See events/README.md.
+  learned_classifier_path: events/weights/action_classifier.pt
+
+video:
+  # Frames are always read from the input video's actual metadata — these are fallbacks only.
+  assume_fixed_camera: true

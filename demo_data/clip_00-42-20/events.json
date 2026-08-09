@@ -1,0 +1,219 @@
+{
+  "video": {
+    "path": "data/samples/clip_00-42-20.mp4",
+    "fps": 25.0,
+    "frame_count": 750,
+    "width": 1920,
+    "height": 1080
+  },
+  "events": [
+    {
+      "type": "serve",
+      "start_frame": 1,
+      "end_frame": 15,
+      "start_time": 0.04,
+      "end_time": 0.6,
+      "confidence": 0.6
+    },
+    {
+      "type": "dig",
+      "start_frame": 22,
+      "end_frame": 33,
+      "start_time": 0.88,
+      "end_time": 1.32,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 293,
+      "end_frame": 310,
+      "start_time": 11.72,
+      "end_time": 12.4,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 310,
+      "end_frame": 318,
+      "start_time": 12.4,
+      "end_time": 12.72,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 326,
+      "end_frame": 349,
+      "start_time": 13.04,
+      "end_time": 13.96,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 349,
+      "end_frame": 363,
+      "start_time": 13.96,
+      "end_time": 14.52,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 363,
+      "end_frame": 385,
+      "start_time": 14.52,
+      "end_time": 15.4,
+      "confidence": 0.3
+    },
+    {
+      "type": "set",
+      "start_frame": 385,
+      "end_frame": 422,
+      "start_time": 15.4,
+      "end_time": 16.88,
+      "confidence": 0.5
+    },
+    {
+      "type": "dig",
+      "start_frame": 422,
+      "end_frame": 435,
+      "start_time": 16.88,
+      "end_time": 17.4,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 442,
+      "end_frame": 449,
+      "start_time": 17.68,
+      "end_time": 17.96,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 449,
+      "end_frame": 457,
+      "start_time": 17.96,
+      "end_time": 18.28,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 473,
+      "end_frame": 478,
+      "start_time": 18.92,
+      "end_time": 19.12,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 487,
+      "end_frame": 497,
+      "start_time": 19.48,
+      "end_time": 19.88,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 497,
+      "end_frame": 503,
+      "start_time": 19.88,
+      "end_time": 20.12,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 503,
+      "end_frame": 515,
+      "start_time": 20.12,
+      "end_time": 20.6,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 515,
+      "end_frame": 522,
+      "start_time": 20.6,
+      "end_time": 20.88,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 522,
+      "end_frame": 548,
+      "start_time": 20.88,
+      "end_time": 21.92,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 555,
+      "end_frame": 559,
+      "start_time": 22.2,
+      "end_time": 22.36,
+      "confidence": 0.3
+    },
+    {
+      "type": "serve",
+      "start_frame": 595,
+      "end_frame": 621,
+      "start_time": 23.8,
+      "end_time": 24.84,
+      "confidence": 0.6
+    },
+    {
+      "type": "dig",
+      "start_frame": 621,
+      "end_frame": 643,
+      "start_time": 24.84,
+      "end_time": 25.72,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 643,
+      "end_frame": 668,
+      "start_time": 25.72,
+      "end_time": 26.72,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 668,
+      "end_frame": 690,
+      "start_time": 26.72,
+      "end_time": 27.6,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 690,
+      "end_frame": 704,
+      "start_time": 27.6,
+      "end_time": 28.16,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 704,
+      "end_frame": 711,
+      "start_time": 28.16,
+      "end_time": 28.44,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 711,
+      "end_frame": 724,
+      "start_time": 28.44,
+      "end_time": 28.96,
+      "confidence": 0.3
+    },
+    {
+      "type": "dig",
+      "start_frame": 724,
+      "end_frame": 728,
+      "start_time": 28.96,
+      "end_time": 29.12,
+      "confidence": 0.3
+    }
+  ]
+}

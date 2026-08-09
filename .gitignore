@@ -1,0 +1,46 @@
+.venv/
+.venv-tf/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local-only build/output artifacts
+/output/
+/runs/
+/data/uploads/
+
+# Third-party vendored repo, cloned not authored -- see ball/README.md to
+# reproduce (needed only to redo fine-tuning, not to run the pipeline).
+/third_party/
+
+# No video files by default (raw match footage is 1.5GB+, GitHub-hostile) --
+# negated below for the specific ones actually used by the pipeline/web UI.
+*.mp4
+*.mov
+
+# Raw match footage: keep only the two short trimmed clips used throughout
+# this project's own READMEs and the web UI's sample dropdown.
+data/samples/*
+!data/samples/.gitkeep
+!data/samples/clip_00-42-20.mp4
+!data/samples/clip2_00-48-00.mp4
+
+# Compressed demo gallery videos (webapp/gallery_app.py, webapp/README.md) --
+# small (~2-4MB each after compression), meant to be committed.
+!demo_data/**/*.mp4
+
+# Model weights (ball/, pose/, events/ each have a weights/ dir) are also
+# meant to be committed -- all well under GitHub's 100MB file limit.
+
+# Claude Code's own local session state -- machine-specific, not project source.
+/.claude/
+
+# Stray top-level model files from early Phase 1/pose evaluation, superseded
+# by the actual chosen weights in ball/weights/, pose/weights/, events/weights/.
+/weights/
+/yolo11s-cls.pt
+
+# events/prepare_action_dataset.py's output -- 35K+ derived training crops,
+# reproducible from the Roboflow download (see events/README.md), not source.
+/data/action_dataset/
+
